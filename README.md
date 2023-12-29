@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iqmalakur" alt="iqmalakur" /></a> </p>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang** and **React JS**
 
 - 📫 How to reach me **iakbarkurnia@gmail.com**
 
